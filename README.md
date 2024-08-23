@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedhikaa P</h1>
 <h3 align="center">A passionate ML/AI Enthusiast from India</h3>
+<h3 align="center">🧑‍🎓 I’m an IT-Undergraduate at Sri Sairam Engg</h3>
 
 - 🌱 I’m currently learning **DSA, ML, AI**
 
